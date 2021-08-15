@@ -363,7 +363,7 @@ header .inner-wrap { padding: 0;}
 .site-intro .sub-heading p { text-align: center; }
 
 .site-intro {
-  background-image: url(/assets/images/01.png);
+  background-image: url(../images/01.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -399,7 +399,7 @@ header .inner-wrap { padding: 0;}
 .site-intro .slick-slider .slick-prev {
   width: 30px;
   height: 100px;
-  background-image: url(/assets/images/circular-arrow.svg);
+  background-image: url(../images/circular-arrow.svg);
   background-size: contain;
   background-position: center;
   top: 50%;
@@ -440,7 +440,7 @@ header .inner-wrap { padding: 0;}
 }
 
 .slick-dots li button {
-  background-image: url(/assets/images/slider-dot.svg);
+  background-image: url(../images/slider-dot.svg);
   background-size: contain;
   opacity: .5;
   width: 10px;
@@ -694,7 +694,7 @@ ul.tabs li {
 .projects-module .slick-slider .slick-prev {
   width: 10px;
   height: 20px;
-  background-image: url(/assets/images/arrow.svg);
+  background-image: url(../images/arrow.svg);
   background-size: contain;
   background-position: center;
   top: 50%;
@@ -712,7 +712,7 @@ ul.tabs li {
 
 .projects-module .slick-slider .slick-next:hover,
 .projects-module .slick-slider .slick-prev:hover {
-  background-image: url(/assets/images/hovered-arrow.svg);
+  background-image: url(../images/hovered-arrow.svg);
 }
 
 .projects-module .slick-slider .slick-prev {
@@ -781,7 +781,7 @@ ul.tabs li {
 
 .testimonials-module {
   position: relative;
-  background-image: url(/assets/images/09.png);
+  background-image: url(../images/09.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -824,7 +824,7 @@ ul.tabs li {
 .testimonials-module .slick-slider .slick-prev {
   width: 20px;
   height: 50px;
-  background-image: url(/assets/images/slider-arrow.svg);
+  background-image: url(../images/slider-arrow.svg);
   background-size: contain;
   background-position: center;
   top: 50%;
